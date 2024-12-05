@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Haris Aqeel 👋 </h1>
 <h3 align="center">🚀 On my way to Platform Engineer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-sp4rk" alt="Haris-sp4rk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-SP4RKy" alt="Haris-SP4RKy" /> </p>
 
 - 🔭 I’m currently working on projects directly affecting millions of user daily
 - 🌱 I’m currently preparing for CKA(Certified Kubernetes Administrator)
